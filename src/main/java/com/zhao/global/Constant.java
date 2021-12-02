@@ -6,8 +6,8 @@ public class Constant {
 	public static final int MainWorkSpaceHeight = 500;
 	public static final int MainWorkSpaceWidth = 1100;
 
-	public static String blogPath="D:\\blog";
-	public static String browerCMD="start firefox.exe https://gitee.com/bigzcoder/bigzcoder/pages";
+	public static String blogPath="G:\\Data\\MyBlog\\source_blog";
+	public static String browerCMD="start chrome.exe https://gitee.com/NeuronNear/NeuronNear/pages";
 	
 	public static final String HORIZENLINE = "----------------------------------------------------------------\n";
 

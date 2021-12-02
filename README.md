@@ -15,8 +15,21 @@
 
 程序采用java源码开发的图形界面  
 
-1. 首先下载源码开发的IDE --> eclipse，使用maven工程导入  
-3. 修改`/AutoHexo_maven/src/main/java/com/zhao/global/Constant.java`中的`browerCMD`命令，使用本机浏览器开启对应网站。
+1. 首先下载源码开发的IDE --> eclipse
+
+2. 打开Eclipse，`File-Import-Maven-Existing Maven Projects`
+
+    ![04](img/04.png)
+
+    选择项目路径，然后点击'Finish'将项目添加进来，等待`Importing Maven projects`
+
+    ![05](img/05.png)
+
+3. 修改`/AutoHexo_maven/src/main/java/com/zhao/global/Constant.java`中的`browerCMD`命令
+
+    ![06](img/06.png)
+
+    使用本机浏览器开启对应网站。
 
     ```
     start firefox.exe https://gitee.com/bigzcoder/bigzcoder/pages
